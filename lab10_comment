@@ -1,0 +1,4 @@
+3. make -> exécute la première cible qui est ici install
+   make install -> excute la cible install qui permettant d’installer le binaire créer dans $HOME
+   make min.o -> créer le binaire min.o dans le fichier courant
+   make clean -> efface les fichiers dont on n’aurait pas besoin pour créer le binaire, efface tout les fichier .o
